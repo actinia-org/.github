@@ -41,8 +41,8 @@ The actinia related repositories are organized as follows:
   - **[actinia tutorial](https://actinia-org.github.io/actinia-core/):** Rendered actinia tutorial.
 - **[actinia-jupyter](https://github.com/actinia-org/actinia-jupyter):** Jupyter notebooks for tutorials.
 - **[processing-examples](https://github.com/actinia-org/processing-examples):** Examples of processing chains.
-- **[actinia slides](https://github.com/actinia-org/slidess):** Slides about actinia.
-  - **[GRASS GIS in the cloud: actinia geoprocessing](https://htmlpreview.github.io/?https://github.com/actinia-org/slides/blob/main/intro/index.html):** Rendered actinia slides (requires Chrome browser).
+- **[actinia slides](https://github.com/actinia-org/slides):** Slides about actinia.
+  - **Presentation: [GRASS GIS in the cloud: actinia geoprocessing](https://htmlpreview.github.io/?https://github.com/actinia-org/slides/blob/main/intro/index.html):** (requires Chrome browser).
 
 ### 📚 Metadata & Infrastructure
 
